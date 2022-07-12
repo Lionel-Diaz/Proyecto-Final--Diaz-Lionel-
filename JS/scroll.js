@@ -17,22 +17,22 @@ window.sr = ScrollReveal();
     });
     sr.reveal('.carta--1',{
         duration:2000,
-        origin:'left',
+        origin:'bottom',
         distance:'400px'
     });
     sr.reveal('.carta--2',{
         duration:2000,
-        origin:'right',
+        origin:'bottom',
         distance:'400px'
     });
     sr.reveal('.seguros--1',{
         duration:2000,
-        origin:'left',
+        origin:'bottom',
         distance:'400px'
     });
     sr.reveal('.seguros--2',{
         duration:2000,
-        origin:'right',
+        origin:'bottom',
         distance:'400px'
     });
     sr.reveal('.seguros--3',{
@@ -52,7 +52,7 @@ window.sr = ScrollReveal();
     });
     sr.reveal('.formulario',{
         duration:2000,
-        origin:'left',
+        origin:'bottom',
         distance:'400px'
     });
     sr.reveal('.carta--grande',{
